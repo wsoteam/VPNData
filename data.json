@@ -116,8 +116,8 @@ b1be1887d6a48421257b5ae8a8eafcfa
 4af2534586ee91d636ab9982be671c00
 -----END OpenVPN Static key V1-----
 </tls-auth>",
-  "country" : "NL",
-  "urlIcon" : ""
+  "country" : "Netherlands",
+  "urlIcon" : "https://github.com/wsoteam/VPNData/blob/master/nt.png?raw=true"
 }, {
   "certificate" : "client
 proto tcp
@@ -235,8 +235,8 @@ b1be1887d6a48421257b5ae8a8eafcfa
 4af2534586ee91d636ab9982be671c00
 -----END OpenVPN Static key V1-----
 </tls-auth>",
-  "country" : "FR",
-  "urlIcon" : ""
+  "country" : "France",
+  "urlIcon" : "https://github.com/wsoteam/VPNData/blob/master/fr.png?raw=true"
 } ],
 "name" : "name",
 "url" : "https://freevpn.me/accounts"
