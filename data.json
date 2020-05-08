@@ -118,7 +118,7 @@ b1be1887d6a48421257b5ae8a8eafcfa
 </tls-auth>",
   "country" : "Netherlands",
   "urlIcon" : "https://github.com/wsoteam/VPNData/blob/master/nt.png?raw=true",
-  "user" : "freevpn.me",
+  "username" : "freevpn.me",
   "pass" : "4u9an3aRrAEp"
 }, {
   "certificate" : "client
@@ -242,6 +242,6 @@ b1be1887d6a48421257b5ae8a8eafcfa
 } ],
 "name" : "name",
 "url" : "https://freevpn.me/accounts",
-  "user" : "freevpn.me",
+  "username" : "freevpn.me",
   "pass" : "bYu8MxZkbF52"
 }
