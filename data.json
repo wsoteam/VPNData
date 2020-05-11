@@ -238,10 +238,10 @@ b1be1887d6a48421257b5ae8a8eafcfa
 -----END OpenVPN Static key V1-----
 </tls-auth>",
   "country" : "France",
-  "urlIcon" : "https://github.com/wsoteam/VPNData/blob/master/fr.png?raw=true"
-} ],
-"name" : "name",
-"url" : "https://freevpn.me/accounts",
+  "urlIcon" : "https://github.com/wsoteam/VPNData/blob/master/fr.png?raw=true",
   "username" : "freevpn.me",
   "pass" : "bYu8MxZkbF52"
+} ],
+"name" : "name",
+"url" : "https://freevpn.me/accounts"
 }
