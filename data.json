@@ -1,8 +1,9 @@
 {
 "certificate" : [ {
   "certificate" : "client
-proto tcp
-remote server1.freevpn.me 443
+proto udp
+remote server1.freevpn.me 53
+explicit-exit-notify
 connect-retry-max 3
 connect-retry 3
 resolv-retry 15
