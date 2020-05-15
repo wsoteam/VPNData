@@ -118,7 +118,7 @@ b1be1887d6a48421257b5ae8a8eafcfa
 -----END OpenVPN Static key V1-----
 </tls-auth>",
   "country" : "Netherlands",
-  "urlIcon" : "https://github.com/wsoteam/VPNData/blob/master/nt.png?raw=true",
+  "urlIcon" : "https://i.ibb.co/1J0JK8S/nt.png",
   "username" : "freevpn.me",
   "pass" : "4u9an3aRrAEp"
 }, {
@@ -239,10 +239,11 @@ b1be1887d6a48421257b5ae8a8eafcfa
 -----END OpenVPN Static key V1-----
 </tls-auth>",
   "country" : "France",
-  "urlIcon" : "https://github.com/wsoteam/VPNData/blob/master/fr.png?raw=true",
+  "urlIcon" : "https://i.ibb.co/PzP6XhN/fr.png",
   "username" : "freevpn.me",
   "pass" : "bYu8MxZkbF52"
 } ],
 "name" : "name",
-"url" : "https://freevpn.me/accounts"
+"url" : "https://freevpn.me/accounts",
+ "isNeedParseAuth" : true
 }
